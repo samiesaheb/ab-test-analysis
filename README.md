@@ -50,4 +50,4 @@ This project simulates and analyzes an A/B test from a product experiment, focus
 
 ## 💡 Author
 
-Built by [Your Name](https://github.com/yourusername) as a growth & experimentation analytics project.
+Built by [Samie Saheb](https://github.com/samiesaheb) as a growth & experimentation analytics project.
